@@ -19,13 +19,13 @@ export class Footer {
             </p>
             <div class="social-links flex gap-3" style="margin-top: 1rem;">
               <a href="#" style="color: var(--medical-white); font-size: 1.5rem; text-decoration: none; opacity: 0.8; transition: opacity 0.3s;">
-                <img src="/src/assets/icon/facebook.png" alt="Facebook" style="width: 24px; height: 24px;">
+                <img src="./assets/icon/facebook.png" alt="Facebook" style="width: 24px; height: 24px;">
               </a>
               <a href="#" style="color: var(--medical-white); font-size: 1.5rem; text-decoration: none; opacity: 0.8; transition: opacity 0.3s;">
-                <img src="/src/assets/icon/instagram.png" alt="Instagram" style="width: 24px; height: 24px;">
+                <img src="./assets/icon/instagram.png" alt="Instagram" style="width: 24px; height: 24px;">
               </a>
               <a href="#" style="color: var(--medical-white); font-size: 1.5rem; text-decoration: none; opacity: 0.8; transition: opacity 0.3s;">
-                <img src="/src/assets/icon/whatsappverdechico.png" alt="WhatsApp" style="width: 24px; height: 24px;">
+                <img src="./assets/icon/whatsappverdechico.png" alt="WhatsApp" style="width: 24px; height: 24px;">
               </a>
             </div>
           </div>

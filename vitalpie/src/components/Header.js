@@ -17,7 +17,7 @@ export class Header {
       <div class="container">
         <nav class="flex-center py-4" style="justify-content: space-between; width: 100%;">
           <div class="logo" style="display: flex; align-items: center;">
-            <img src="/src/assets/icon/vitalpieico3.ico" alt="Vital Pie" style="height: 40px; margin-right: 10px;">
+            <img src="./assets/icon/vitalpieico3.ico" alt="Vital Pie" style="height: 40px; margin-right: 10px;">
             <h1 style="color: var(--medical-dark-blue); font-size: 1.5rem; font-weight: 600; margin: 0;">
               Vital Pie - Podología UBA
             </h1>
