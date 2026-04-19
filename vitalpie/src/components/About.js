@@ -44,7 +44,7 @@ export class About {
           
           <div class="about-image">
             <div class="card" style="padding: 0; overflow: hidden;">
-              <img src="./assets/image/img-quienessomos.jpeg" alt="Sobre Nosotros" style="width: 100%; height: auto; display: block;">
+              <img src="/assets/image/img-quienessomos.jpeg" alt="Sobre Nosotros" style="width: 100%; height: auto; display: block;">
               <div style="padding: 2rem; background-color: var(--medical-blue); text-align: center;">
                 <h4 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Nuestra Misión</h4>
                 <p style="color: var(--medical-text); line-height: 1.6; margin-bottom: 2rem;">

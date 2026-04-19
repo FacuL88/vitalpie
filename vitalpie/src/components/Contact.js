@@ -67,7 +67,7 @@ export class Contact {
             </div>
             
             <div class="card" style="margin-top: 2rem; padding: 0; overflow: hidden;">
-              <img src="./assets/image/fototrabajo2.JPG" alt="Consultorio" style="width: 100%; height: 200px; object-fit: cover;">
+              <img src="/assets/image/fototrabajo2.JPG" alt="Consultorio" style="width: 100%; height: 200px; object-fit: cover;">
               <div style="padding: 1.5rem; background-color: var(--medical-blue); text-align: center;">
                 <h4 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">👣 Consulta Podológica</h4>
                 <p style="color: var(--medical-text); margin: 0; font-size: 0.9rem;">

@@ -13,7 +13,7 @@ export class Services {
         <h2 class="section-title">Servicios de Podología</h2>
         <div class="services-grid grid grid-3">
           <div class="service-card card text-center">
-            <img src="./assets/image/IMG_9284.JPG" alt="Consulta Podológica" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+            <img src="/assets/image/IMG_9284.JPG" alt="Consulta Podológica" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
             <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Consulta General</h3>
             <p style="color: var(--medical-text); line-height: 1.6;">
               Evaluación completa de la salud de tus pies con diagnóstico y tratamiento personalizado.
@@ -26,7 +26,7 @@ export class Services {
           </div>
 
           <div class="service-card card text-center">
-            <img src="./assets/image/IMG_9285.JPG" alt="Cirugía Podológica" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+            <img src="/assets/image/IMG_9285.JPG" alt="Cirugía Podológica" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
             <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Cirugía Menor</h3>
             <p style="color: var(--medical-text); line-height: 1.6;">
               Procedimientos quirúrgicos ambulatorios para corrección de patologías podológicas.
@@ -39,7 +39,7 @@ export class Services {
           </div>
 
           <div class="service-card card text-center">
-            <img src="./assets/image/IMG_9286.JPG" alt="Onicología" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+            <img src="/assets/image/IMG_9286.JPG" alt="Onicología" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
             <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Onicología</h3>
             <p style="color: var(--medical-text); line-height: 1.6;">
               Tratamiento especializado para enfermedades y patologías de las uñas de los pies.
@@ -52,7 +52,7 @@ export class Services {
           </div>
 
           <div class="service-card card text-center">
-            <img src="./assets/image/IMG_9288.JPG" alt="Podología Deportiva" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+            <img src="/assets/image/IMG_9288.JPG" alt="Podología Deportiva" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
             <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Podología Deportiva</h3>
             <p style="color: var(--medical-text); line-height: 1.6;">
               Atención especializada para deportistas y prevención de lesiones podológicas.
@@ -65,7 +65,7 @@ export class Services {
           </div>
 
           <div class="service-card card text-center">
-            <img src="./assets/image/IMG_9289.JPG" alt="Diabetes y Pies" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+            <img src="/assets/image/IMG_9289.JPG" alt="Diabetes y Pies" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
             <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Pie Diabético</h3>
             <p style="color: var(--medical-text); line-height: 1.6;">
               Cuidado integral para pacientes diabéticos y prevención de complicaciones.
@@ -78,7 +78,7 @@ export class Services {
           </div>
 
           <div class="service-card card text-center">
-            <img src="./assets/image/mesainstrumental.JPG" alt="Estética Podológica" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+            <img src="/assets/image/mesainstrumental.JPG" alt="Estética Podológica" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
             <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Estética Podológica</h3>
             <p style="color: var(--medical-text); line-height: 1.6;">
               Tratamientos estéticos para mejorar la apariencia y salud de tus pies.

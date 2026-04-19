@@ -43,7 +43,7 @@ export class Hero {
           </div>
           <div class="hero-image">
             <div class="card" style="padding: 0; overflow: hidden;">
-              <img src="./assets/image/IMG_9283.JPG" alt="Consultorio de Podología" style="width: 100%; height: auto; display: block;">
+              <img src="/assets/image/IMG_9283.JPG" alt="Consultorio de Podología" style="width: 100%; height: auto; display: block;">
               <div style="padding: 1.5rem; background-color: var(--medical-blue); text-align: center;">
                 <h3 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">Salud Integral para tus Pies</h3>
                 <p style="color: var(--medical-text); margin: 0; font-size: 0.9rem;">
