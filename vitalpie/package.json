@@ -11,5 +11,8 @@
   "homepage": "https://facul88.github.io/vitalpie",
   "devDependencies": {
     "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1"
   }
 }
