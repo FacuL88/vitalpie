@@ -19,48 +19,48 @@ export class Services {
               Evaluación completa de la salud de tus pies con diagnóstico y tratamiento personalizado.
             </p>
             <ul style="text-align: left; margin-top: 1rem; color: var(--medical-text);">
-              <li>✓ Estudio biomecánico</li>
-              <li>✓ Diagnóstico por imagen</li>
-              <li>✓ Tratamiento personalizado</li>
+              <li style="font-weight: bold">✓ Anamnesis detallada</li>
+              <li style="font-weight: bold">✓ Atencion personalizada</li>
+              <li style="font-weight: bold">✓ Tratamiento segun evaluacion clinica</li>
             </ul>
           </div>
 
           <div class="service-card card text-center">
             <img src="/assets/image/IMG_9285.JPG" alt="Cirugía Podológica" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
-            <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Cirugía Menor</h3>
+            <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Test micotico</h3>
             <p style="color: var(--medical-text); line-height: 1.6;">
-              Procedimientos quirúrgicos ambulatorios para corrección de patologías podológicas.
+              Prueba de laboratorio que permite detectar infecciones producidas por hongos en uñas.
             </p>
             <ul style="text-align: left; margin-top: 1rem; color: var(--medical-text);">
-              <li>✓ Uñas encarnadas</li>
-              <li>✓ Eliminación de verrugas</li>
-              <li>✓ Cirugía de juanetes</li>
+              <li style="font-weight: bold">✓ Toma de muestra con materia esteril y descartable</li>
+              <li style="font-weight: bold">✓ Evaluacion del estado de la uña</li>
+              <li style="font-weight: bold">✓ Acesoramiento y derivacion correspondiente</li>
             </ul>
           </div>
 
           <div class="service-card card text-center">
             <img src="/assets/image/IMG_9286.JPG" alt="Onicología" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
-            <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Onicología</h3>
+            <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Tratamientos en heridas</h3>
             <p style="color: var(--medical-text); line-height: 1.6;">
-              Tratamiento especializado para enfermedades y patologías de las uñas de los pies.
+              Contamos con una profesional especializada en heridas con amplia trayectoria en trabajo y tratamiento sobre lesiones en la pie
             </p>
             <ul style="text-align: left; margin-top: 1rem; color: var(--medical-text);">
-              <li>✓ Tratamiento de hongos</li>
-              <li>✓ Reconstrucción de uñas</li>
-              <li>✓ Terapia láser</li>
+              <li style="font-weight: bold">✓ Anamnesis profunda</li>
+              <li style="font-weight: bold">✓ Evaluacion del grado de la herida</li>
+              <li style="font-weight: bold">✓ Tratamiento personalizado segun lesion</li>
             </ul>
           </div>
 
           <div class="service-card card text-center">
             <img src="/assets/image/IMG_9288.JPG" alt="Podología Deportiva" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
-            <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Podología Deportiva</h3>
+            <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Plantillas</h3>
             <p style="color: var(--medical-text); line-height: 1.6;">
-              Atención especializada para deportistas y prevención de lesiones podológicas.
+              Trabajamos con ortopedistas especializados en la materia
             </p>
             <ul style="text-align: left; margin-top: 1rem; color: var(--medical-text);">
-              <li>✓ Análisis de pisada</li>
-              <li>✓ Ortesis personalizadas</li>
-              <li>✓ Tratamiento de lesiones</li>
+              <li style="font-weight: bold">✓ Realizamos plantillas con o sin receta</li>
+              <li style="font-weight: bold">✓ Pedigrafia y evaluacion de la pisada</li>
+              <li style="font-weight: bold">✓ Acesoramiento personalizado</li>
             </ul>
           </div>
 
@@ -71,22 +71,22 @@ export class Services {
               Cuidado integral para pacientes diabéticos y prevención de complicaciones.
             </p>
             <ul style="text-align: left; margin-top: 1rem; color: var(--medical-text);">
-              <li>✓ Control vascular</li>
-              <li>✓ Prevención de úlceras</li>
-              <li>✓ Educación al paciente</li>
+              <li style="font-weight: bold">✓ Control vascular</li>
+              <li style="font-weight: bold">✓ Prevención de úlceras</li>
+              <li style="font-weight: bold">✓ Educación al paciente</li>
             </ul>
           </div>
 
           <div class="service-card card text-center">
-            <img src="/assets/image/mesainstrumental.JPG" alt="Estética Podológica" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
+            <img src="/assets/image/IMG_9289.JPG" alt="Estética Podológica" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 1rem;">
             <h3 style="color: var(--medical-dark-blue); margin-bottom: 1rem; font-size: 1.5rem;">Estética Podológica</h3>
             <p style="color: var(--medical-text); line-height: 1.6;">
               Tratamientos estéticos para mejorar la apariencia y salud de tus pies.
             </p>
             <ul style="text-align: left; margin-top: 1rem; color: var(--medical-text);">
-              <li>✓ Limpieza profesional</li>
-              <li>✓ Tratamiento de durezas</li>
-              <li>✓ Diseño de uñas</li>
+              <li style="font-weight: bold">✓ Hidratacion de tus pies</li>
+              <li style="font-weight: bold">✓ Tratamiento de durezas</li>
+              <li style="font-weight: bold">✓ Recontruccion de uñas</li>
             </ul>
           </div>
         </div>

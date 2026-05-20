@@ -43,9 +43,6 @@ export class Footer {
                 <a href="#nosotros" class="footer-link" style="color: var(--medical-white); text-decoration: none; opacity: 0.8; transition: opacity 0.3s;">Nosotros</a>
               </li>
               <li style="margin-bottom: 0.5rem;">
-                <a href="#turnos" class="footer-link" style="color: var(--medical-white); text-decoration: none; opacity: 0.8; transition: opacity 0.3s;">Pedir Turno</a>
-              </li>
-              <li style="margin-bottom: 0.5rem;">
                 <a href="#contacto" class="footer-link" style="color: var(--medical-white); text-decoration: none; opacity: 0.8; transition: opacity 0.3s;">Contacto</a>
               </li>
             </ul>
@@ -54,10 +51,9 @@ export class Footer {
           <div class="footer-section">
             <h4 style="margin-bottom: 1rem; font-size: 1.1rem;">Información de Contacto</h4>
             <div style="line-height: 1.8; opacity: 0.9;">
-              <p style="margin: 0 0 0.5rem 0;">📍 Av. Principal 1234, Ciudad Médica</p>
-              <p style="margin: 0 0 0.5rem 0;">📞 (011) 1234-5678</p>
-              <p style="margin: 0 0 0.5rem 0;">📧 info@vitalpie.com</p>
-              <p style="margin: 0;">⏰ Lunes a Viernes: 8:00 - 20:00</p>
+              <p style="margin: 0 0 0.5rem 0;">📍 Av. Cramer 3567, Ciudad Médica</p>
+              <p style="margin: 0 0 0.5rem 0;">📞 1122504990</p>
+              <p style="margin: 0 0 0.5rem 0;">📧 consultoriovitalpie@gmail.com</p>
             </div>
           </div>
         </div>

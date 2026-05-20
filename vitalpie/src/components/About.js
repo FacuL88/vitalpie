@@ -20,7 +20,7 @@ export class About {
             </h3>
             <p style="color: var(--medical-text); margin-bottom: 1.5rem; line-height: 1.8; font-size: 1.1rem;">
               En Vital Pie somos un consultorio especializado en podología con profesionales graduados de la Universidad de Buenos Aires. 
-              Desde nuestra fundación, hemos ayudado a miles de pacientes a recuperar la salud y bienestar de sus pies.
+              Desde nuestro consultorio, hemos ayudado a miles de pacientes a recuperar la salud y bienestar de sus pies.
             </p>
             <p style="color: var(--medical-text); margin-bottom: 1.5rem; line-height: 1.8; font-size: 1.1rem;">
               Nuestro equipo de podólogos está altamente capacitado y comprometido con el bienestar de cada paciente, 
@@ -28,11 +28,11 @@ export class About {
             </p>
             <div class="about-stats grid grid-3" style="margin-top: 2rem;">
               <div class="stat text-center">
-                <div style="font-size: 2.5rem; font-weight: 700; color: var(--medical-accent); margin-bottom: 0.5rem;">10+</div>
+                <div style="font-size: 2.5rem; font-weight: 700; color: var(--medical-accent); margin-bottom: 0.5rem;">25+</div>
                 <div style="color: var(--medical-text); font-weight: 500;">Años de Experiencia</div>
               </div>
               <div class="stat text-center">
-                <div style="font-size: 2.5rem; font-weight: 700; color: var(--medical-accent); margin-bottom: 0.5rem;">3000+</div>
+                <div style="font-size: 2.5rem; font-weight: 700; color: var(--medical-accent); margin-bottom: 0.5rem;">10.000+</div>
                 <div style="color: var(--medical-text); font-weight: 500;">Pacientes Tratados</div>
               </div>
               <div class="stat text-center">
@@ -66,30 +66,29 @@ export class About {
           </h3>
           <div class="team-grid grid grid-3">
             <div class="team-member card text-center">
-              <div style="font-size: 4rem; margin-bottom: 1rem;">👨‍⚕️</div>
-              <h4 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">Dr. Martín Vital</h4>
-              <p style="color: var(--medical-accent); font-weight: 500; margin-bottom: 1rem;">Podólogo UBA</p>
+              <div style="font-size: 4rem; margin-bottom: 1rem;">👩‍⚕️</div>
+              <h4 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">Lic. Calicchio Claudia</h4>
+              <p style="color: var(--medical-accent); font-weight: 500; margin-bottom: 1rem;">Podóloga UBA</p>
               <p style="color: var(--medical-text); font-size: 0.9rem;">
-                Especialista en cirugía podológica con más de 12 años de experiencia.
+                Especialista en heridas del pie diabetico con más de 20 años de experiencia.
               </p>
             </div>
             
             <div class="team-member card text-center">
               <div style="font-size: 4rem; margin-bottom: 1rem;">👩‍⚕️</div>
-              <h4 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">Dra. Laura García</h4>
+              <h4 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">Lic. Laugle Natalia</h4>
               <p style="color: var(--medical-accent); font-weight: 500; margin-bottom: 1rem;">Podóloga UBA</p>
               <p style="color: var(--medical-text); font-size: 0.9rem;">
-                Especialista en onicología y tratamientos láser para uñas.
+                Especialista en tratamientos de onicocriptosis, verrugas plantares .
               </p>
             </div>
             
             <div class="team-member card text-center">
-              <div style="font-size: 4rem; margin-bottom: 1rem;">👨‍⚕️</div>
-              <h4 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">Dr. Roberto Silva</h4>
-              <p style="color: var(--medical-accent); font-weight: 500; margin-bottom: 1rem;">Podólogo Deportivo UBA</p>
+              <div style="font-size: 4rem; margin-bottom: 1rem;">👩‍⚕️</div>
+              <h4 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">Lic. Piccinino Sabrina</h4>
+              <p style="color: var(--medical-accent); font-weight: 500; margin-bottom: 1rem;">Podóloga UBA</p>
               <p style="color: var(--medical-text); font-size: 0.9rem;">
-                Especialista en podología deportiva y biomecánica del pie.
-              </p>
+                Especialista en queratosis y helomas. </p>
             </div>
           </div>
         </div>

@@ -25,7 +25,7 @@ export class Contact {
                 <div>
                   <h4 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">Dirección</h4>
                   <p style="color: var(--medical-text); margin: 0;">
-                    Av. Corrientes 1234<br>
+                    Av. Cramer 3567<br>
                     CABA, Buenos Aires
                   </p>
                 </div>
@@ -36,8 +36,7 @@ export class Contact {
                 <div>
                   <h4 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">Teléfono</h4>
                   <p style="color: var(--medical-text); margin: 0;">
-                    Consultas: (011) 4567-8910<br>
-                    WhatsApp: (011) 4567-8911
+                    Consultas: 1122504990
                   </p>
                 </div>
               </div>
@@ -47,8 +46,7 @@ export class Contact {
                 <div>
                   <h4 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">Email</h4>
                   <p style="color: var(--medical-text); margin: 0;">
-                    info@vitalpie.com<br>
-                    turnos@vitalpie.com
+                    consultoriovitalpie@gmail.com
                   </p>
                 </div>
               </div>
@@ -58,9 +56,13 @@ export class Contact {
                 <div>
                   <h4 style="color: var(--medical-dark-blue); margin-bottom: 0.5rem;">Horario de Atención</h4>
                   <p style="color: var(--medical-text); margin: 0;">
-                    Lunes a Viernes: 9:00 - 19:00<br>
-                    Sábados: 9:00 - 13:00<br>
-                    <strong>Domingos: Cerrado</strong>
+                      Lunes: 9:00 - 12:20 hs </br>
+                      Martes: 9:00 - 12:20 hs y 13:40 - 17:00 hs</br>
+                      Miércoles: 9:00 - 13:00 hs y 14:20 - 16:20 hs</br>
+                      Jueves: 9:00 - 12:20 hs y 13:40 - 17:40 hs</br>
+                      Viernes: 9:00 - 12:20 hs y 13:40 - 17:40 hs</br>
+                      Sabados: 9:00 - 13:00 hs </br>
+                      <span style="color: red"><strong>Domingos y feriados: Cerrado</strong></span>
                   </p>
                 </div>
               </div>
@@ -76,77 +78,8 @@ export class Contact {
               </div>
             </div>
           </div>
-          
-          <div class="contact-form">
-            <div class="card">
-              <h3 style="color: var(--medical-dark-blue); margin-bottom: 2rem; font-size: 1.5rem;">
-                Envíanos un Mensaje
-              </h3>
-              
-              <form id="contactForm" class="flex flex-column gap-4">
-                <div class="form-group">
-                  <label for="contactName" style="display: block; margin-bottom: 0.5rem; font-weight: 500; color: var(--medical-dark-blue);">
-                    Nombre Completo *
-                  </label>
-                  <input type="text" id="contactName" name="name" required
-                    style="width: 100%; padding: 12px; border: 2px solid var(--medical-border); border-radius: 8px; font-size: 16px;"
-                    placeholder="Ingrese su nombre completo">
-                </div>
-                
-                <div class="form-group">
-                  <label for="contactEmail" style="display: block; margin-bottom: 0.5rem; font-weight: 500; color: var(--medical-dark-blue);">
-                    Email *
-                  </label>
-                  <input type="email" id="contactEmail" name="email" required
-                    style="width: 100%; padding: 12px; border: 2px solid var(--medical-border); border-radius: 8px; font-size: 16px;"
-                    placeholder="Ingrese su email">
-                </div>
-                
-                <div class="form-group">
-                  <label for="contactPhone" style="display: block; margin-bottom: 0.5rem; font-weight: 500; color: var(--medical-dark-blue);">
-                    Teléfono
-                  </label>
-                  <input type="tel" id="contactPhone" name="phone"
-                    style="width: 100%; padding: 12px; border: 2px solid var(--medical-border); border-radius: 8px; font-size: 16px;"
-                    placeholder="Ingrese su teléfono">
-                </div>
-                
-                <div class="form-group">
-                  <label for="contactSubject" style="display: block; margin-bottom: 0.5rem; font-weight: 500; color: var(--medical-dark-blue);">
-                    Asunto *
-                  </label>
-                  <select id="contactSubject" name="subject" required
-                    style="width: 100%; padding: 12px; border: 2px solid var(--medical-border); border-radius: 8px; font-size: 16px;">
-                    <option value="">Seleccione un asunto</option>
-                    <option value="consulta">Consulta Podológica</option>
-                    <option value="turno">Información sobre Turnos</option>
-                    <option value="servicio">Información sobre Tratamientos</option>
-                    <option value="urgencia">Urgencia Podológica</option>
-                    <option value="sugerencia">Sugerencia</option>
-                    <option value="otro">Otro</option>
-                  </select>
-                </div>
-                
-                <div class="form-group">
-                  <label for="contactMessage" style="display: block; margin-bottom: 0.5rem; font-weight: 500; color: var(--medical-dark-blue);">
-                    Mensaje *
-                  </label>
-                  <textarea id="contactMessage" name="message" rows="5" required
-                    style="width: 100%; padding: 12px; border: 2px solid var(--medical-border); border-radius: 8px; font-size: 16px; resize: vertical;"
-                    placeholder="Describa su consulta podológica o motivo de contacto..."></textarea>
-                </div>
-                
-                <button type="submit" class="btn btn-primary" style="align-self: flex-start;">
-                  📤 Enviar Mensaje
-                </button>
-              </form>
-              
-              <div id="contactMessage" class="message" style="margin-top: 1rem; display: none;">
-                <!-- Success/error messages will appear here -->
-              </div>
-            </div>
           </div>
-        </div>
+       </div>
       </div>
     `;
 
